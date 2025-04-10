@@ -1,0 +1,12 @@
+{
+    "name": "BlackHole",
+    "symbol": "BH",
+    "description": "The monster of the universe",
+    "image": "https://raw.githubusercontent.com/Light-Rust8/my-token-assets/main/BlackHolePerfect.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
