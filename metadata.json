@@ -1,0 +1,12 @@
+{
+    "name": "LIGHT",
+    "symbol": "LY",
+    "description": "Even the light cant scape",
+    "image": "https://raw.githubusercontent.com/Light-Rust8/my-token-assets/main/Garou.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
